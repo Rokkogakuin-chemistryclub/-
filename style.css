@@ -1,3 +1,15 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #eee;
+  font-family: 'Noto Sans JP' sans-serif;
+}
+
 .k{
   font-size:1.7rem
   
